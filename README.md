@@ -31,7 +31,7 @@ To display the usage information, use the following command:
 - **Compilation Instructions**: Compile using "g++ -std=c++17 dirls.cpp -o dirls.out". This is necessary due to the lines where absolute paths are converted to relative ones.
 - **Code Comments**: Several chunks of code from a previous implementation, where the assignment was misunderstood, have been commented out. They are left in the codebase just in case they are ever needed.
 
-- ## Usage Disclaimer
+## Usage Disclaimer
 This project is intended for educational purposes and as a reference for learning. It is not recommended for direct submission in academic settings, including but not limited to school assignments, projects, or assessments.
 
 Using this code directly for academic purposes may violate academic integrity policies. It is crucial to understand and adhere to your institution's guidelines regarding the use of external resources in your academic work.
